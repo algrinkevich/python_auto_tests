@@ -12,3 +12,4 @@ def test_add_to_cart_button_is_present(browser):
      )
 
     assert add_to_cart_btn is not None, "The button is missing"
+    
